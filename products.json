@@ -1,0 +1,72 @@
+[
+  {
+    "id": "104091",
+    "nombre": "Motul 7100 10W40 4T 1L",
+    "categoria": "100% Sintético",
+    "viscosidad": "10W40",
+    "tipo": "Sintético",
+    "descripcion": "Lubricante de altas prestaciones para motocicletas deportivas.",
+    "precioUnidad": 71000,
+    "precioCaja": 677300,
+    "costoUnidad": 44183,
+    "cantidadCaja": 12,
+    "stock": 12,
+    "imagen": "https://lh3.googleusercontent.com/aida-public/AB6AXuBjZoGRkmEAVCKtsu4l4OaydNgUH4T2ULYHMORErQFit4ruqYxs_fVCkkXvnkYpeZ-uFwPCwb2Tn3IMTppOf29ELPg7xeXHt-l5OECNZrAli9Kx2x2fAkgYwkFH3EwlYfuErxcOEcBWN96-h-A8uW6o2U2Xlw_EmSO8p_Xooh_13J8d2YOLZ7gr0Ii-OXAkK7zEyMgPEydjo6BUnudFvVy0bD_GAnEFvlspQieDsH3-ClRB4a4l_-4IZM1F3-BR4CvLA49yTfTkUGvk"
+  },
+  {
+    "id": "109944",
+    "nombre": "Motul 5100 20W50 4T 1L",
+    "categoria": "Technosynthese",
+    "viscosidad": "20W50",
+    "tipo": "Tecnosintético",
+    "descripcion": "Reforzado con Ester para garantizar la protección del motor.",
+    "precioUnidad": 49000,
+    "precioCaja": 453400,
+    "costoUnidad": 30354,
+    "cantidadCaja": 12,
+    "stock": 12,
+    "imagen": "https://lh3.googleusercontent.com/aida-public/AB6AXuCIdFpYoQpXwas7nHwgR7etlOe5_RkaP6kcurLpeXuQqFPt0k4D8NFz3cD6VM1fQkYag5EyIXy-zcE9zaTd6rOQqFMSGxKFveuzu3kAC0p42PdQRt4VUmhr7g47PIRkIrgdsYQTvCCFkFV3833R8fVmKsqqPT73KLmykTM-jwMfkR6hQFeZFK9hnoFZE2Lu1gn-OVi9R62ubo4r18T9evMrdz6ibKZM1JHgtYCE-0ihRvkyHof9qrtE6JlxbtDsUVrC0tyERITktTPg"
+  },
+  {
+    "id": "104081",
+    "nombre": "Motul 5100 15W50 4T 1L",
+    "categoria": "Technosynthese",
+    "viscosidad": "15W50",
+    "tipo": "Tecnosintético",
+    "descripcion": "Lubricante de tecnología Technosynthese reforzado con Ester.",
+    "precioUnidad": 49000,
+    "precioCaja": 453400,
+    "costoUnidad": 29574,
+    "cantidadCaja": 12,
+    "stock": 12,
+    "imagen": "https://lh3.googleusercontent.com/aida-public/AB6AXuB0YCb4vTLZS8h2wxVPUAiEW1QOWzcZfMiR5yscyg8DYnnJxYPUAoGXF7Lz8qKa18GOql969-elreOkHPQ-6AwOPDqlbRHmISBQCkY07NCtZ5JeRyHYWAj0OTti5mp4GRo5ZJx_ebamvl7pfWj9QqdC_i7sbDtEds14F8gtgH3UxP61Kr509mlH5ex6uC4kktsmTX2olsTBcewNhxih_-_zi9sorRiXtCMpMNjcrb3V77z48jid60ppidBs2f7eEXzUSNNUWLNzUh1_"
+  },
+  {
+    "id": "110205",
+    "nombre": "Motul 5000 20W50 4T 1L",
+    "categoria": "HC-Tech",
+    "viscosidad": "20W50",
+    "tipo": "Mineral",
+    "descripcion": "Lubricante mineral reforzado con aditivos de extrema presión.",
+    "precioUnidad": 40000,
+    "precioCaja": 378900,
+    "costoUnidad": 26169,
+    "cantidadCaja": 12,
+    "stock": 24,
+    "imagen": "https://lh3.googleusercontent.com/aida-public/AB6AXuBApMo6S-PbeX0dh_U6ZOLS6HGl7HwxvOfpF30z_V_Cig4UJsI2n8V3eOU-tt96BsXoDF025tLogYoboT9FnfRl_hZd0Lpr3cb98BtS0mz7pU10MXPIT0YGf9jB1g0M0QQlHIW1s3t9saP2coBZd24BxoXc1HKJCbqWojHJz7Z1FvOLmh5x00x6uvYUgcTUR6FSLYu0H24xG387z4i2lIAwtadL2F0F967gA2ICoesDzxGdtOEK4iVUxYZLsUDGCxUvEt4qRlERzuxl"
+  },
+  {
+    "id": "111658",
+    "nombre": "Motul C4 Chain Lube 400ml",
+    "categoria": "Mantenimiento",
+    "viscosidad": "N/A",
+    "tipo": "Mantenimiento",
+    "descripcion": "Lubricante blanco para cadenas de motos de competición.",
+    "precioUnidad": 61000,
+    "precioCaja": null,
+    "costoUnidad": 39432,
+    "cantidadCaja": 12,
+    "stock": 2,
+    "imagen": "https://lh3.googleusercontent.com/aida-public/AB6AXuBM9_xzC5aZTUTVqYUQd0yggPmaQEu8fFO0jugW6O_PwudZu0CLzeAPFYYbmUswOH7eLjK_WhxewnFgZmBHT5Gplgp_sZC2Pf8HhuescACvzAK3OUoLdX9Eu-AicgvT55DmypCFKHIQizhC7X-DLqPVpNoAbCd5KuEpyaPo6CKLAyU5FDbjFlgJoc0iQlFNd6wh2jYt8PJG5EH3vSlG6jbCkf1FYu3HogEje-a40DO13NVcka-u096VmQEr3-GH5WNuA6ORXHBNGDuq"
+  }
+]

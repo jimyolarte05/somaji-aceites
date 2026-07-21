@@ -1,0 +1,8 @@
+{
+  "name": "somaji-aceites",
+  "version": "1.0.0",
+  "description": "Somaji Aceites - Rendimiento Premium Motul",
+  "scripts": {
+    "dev": "npx http-server -p 3000"
+  }
+}
